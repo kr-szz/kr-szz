@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do kr-szz 😄
 
  <div>
    <a href="https://github.com/kr-szz">
@@ -8,7 +8,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Meios de contato e redes sociais:
  
 <div>
   <a href="https://www.instagram.com/k.r_sz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
